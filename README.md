@@ -1,1 +1,2 @@
-# corngames.tk
+###### CornyGames
+### The games you play
