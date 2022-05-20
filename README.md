@@ -1,2 +1,2 @@
-###### CornyGames
-### The games you play
+# CornyGames
+###### The games you play
