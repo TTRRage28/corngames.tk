@@ -1,5 +1,3 @@
-# Corny Games 
-#### The games you play
 
 
 ## About
